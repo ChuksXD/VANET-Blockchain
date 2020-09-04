@@ -63,7 +63,7 @@ npm install
 ```
 
 ### Run the trust inference model
-Compile and run the python files Credibility_calc.py, beta_distribute.py & Bayesian_decision.py for any of the operations you want to carry out.
+Compile and run the python files `Credibility_calc.py` , `beta_distribute.py` & `Bayesian_decision.py` for any of the operations you want to carry out.
 
 
 ### Issue the trust level
