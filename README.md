@@ -4,7 +4,7 @@ A trust inference model on the hyperledger that is attack proof for communicatio
 
 ## General Info
 The system comprises of :
-* <strong>Trust inference model</strong> which involves calculating credibility of the event messages in the VANET using dynamic metrics and aggregating them through bayesian inference and
+* <strong>Trust inference model</strong> which involves calculating credibility of the event messages in the VANET using dynamic metrics and aggregating them through bayesian inference.
 
 * <strong> Hyperledger </strong> Where the road-side units (RSUs) maintain the trust levels of the vehicles in the network using the credibility of their reports as a factor.
 The hyperledger network used is modelled like the Commercial Paper network that can be found in [Hyperledger Fabric documentation](https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorial/commercial_paper.html).
